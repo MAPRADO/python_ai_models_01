@@ -1,0 +1,5 @@
+# ignore all .pdf files
+*.pdf
+*.vscode
+id_automacao
+id_automacao.pub
